@@ -7,7 +7,7 @@ import os
 import threading
 import atexit
 
-bot = telebot.TeleBot("7987265230:AAFCF8Pk3874_0PJtMR4CVluBMZV35_iVMc")
+bot = telebot.TeleBot("8257595632:AAHmrxOUf7qeRXHnsC-uPYbkRA2Q7lYI2ow")
 
 # Файл для сохранения данных
 DATA_FILE = 'user_data.json'
